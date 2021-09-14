@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "nombre": "mandarina",
+      "precio_kilo": "12.000",
+      "tipo": "frutas",
+      "id": 1
+    }
+  ]
+}
